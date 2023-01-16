@@ -23,3 +23,5 @@ while True:
         print("Too High!")
     elif player_digit < computer_number:
         print("Too Low!")
+        # colors
+        # new code ...
